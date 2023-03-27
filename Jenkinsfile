@@ -18,7 +18,7 @@
                                  ANYPOINT_CREDENTIALS = credentials('platform.credentials')
                                }
                    steps {
-                            bat 'mvn deploy -DmuleDeploy -DmuleVersion=4.4.0 -Dusername=gowrisankar9999 -Dpassword=Gowri123$ -DworkerType=Micro -Dworkers=1 -Dregion=us-west-2'
+                            bat 'mvn deploy -DmuleDeploy -DmuleVersion=4.4.0 -Dusername=gowrisankar2 -Dpassword=Gowri123$ -DworkerType=Micro -Dworkers=1 -Dregion=us-west-2'
                          }
                     }
          }
